@@ -4,3 +4,4 @@ I added this comment to check the merge test.
 I added this change on the local.
 I added on remote site directly.
 マスターで追加しました。
+issue-1ブランチで追加しました。
