@@ -6,3 +6,5 @@ I added on remote site directly.
 issue-1ブランチで追加しました。
 issue-1でもう一回追加しました。
 マスターで追加しました。
+issue-2でランチで追加しました。
+issue-3ではなくマスターで追加したよ。
