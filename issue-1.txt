@@ -2,3 +2,4 @@ issue-1 test for branch test.
 I hope it goes so well !
 I added this comment to check the merge test. 
 I added this change on the local.
+I added on remote site directly.
